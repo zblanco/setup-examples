@@ -1,0 +1,4 @@
+@tailwind base;
+@import "./phoenix.css"; /* remove if desired */
+@tailwind components;
+@tailwind utilities;
